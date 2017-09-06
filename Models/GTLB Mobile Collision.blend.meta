@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 38f6bd86e454cb24c830837417dfe76d
+timeCreated: 1502730967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: __Accoya
+    100002: __Bench
+    100004: __Brick
+    100006: __Concrete
+    100008: __Cutout
+    100010: __Glass
+    100012: __Grass
+    100014: __Road
+    100016: __Spar_Column_King_Post
+    100018: __White_Metal
+    100020: __White_Metal_MeshPart0
+    100022: __White_Metal_MeshPart1
+    100024: __Wood
+    100026: //RootNode
+    100028: __COLLISION
+    100030: NormalHelper
+    400000: __Accoya
+    400002: __Bench
+    400004: __Brick
+    400006: __Concrete
+    400008: __Cutout
+    400010: __Glass
+    400012: __Grass
+    400014: __Road
+    400016: __Spar_Column_King_Post
+    400018: __White_Metal
+    400020: __White_Metal_MeshPart0
+    400022: __White_Metal_MeshPart1
+    400024: __Wood
+    400026: //RootNode
+    400028: __COLLISION
+    400030: NormalHelper
+    2300000: __Accoya
+    2300002: __Bench
+    2300004: __Brick
+    2300006: __Concrete
+    2300008: __Cutout
+    2300010: __Glass
+    2300012: __Grass
+    2300014: __Road
+    2300016: __Spar_Column_King_Post
+    2300018: __White_Metal_MeshPart0
+    2300020: __White_Metal_MeshPart1
+    2300022: __Wood
+    2300024: //RootNode
+    2300026: __COLLISION
+    3300000: __Accoya
+    3300002: __Bench
+    3300004: __Brick
+    3300006: __Concrete
+    3300008: __Cutout
+    3300010: __Glass
+    3300012: __Grass
+    3300014: __Road
+    3300016: __Spar_Column_King_Post
+    3300018: __White_Metal_MeshPart0
+    3300020: __White_Metal_MeshPart1
+    3300022: __Wood
+    3300024: //RootNode
+    3300026: __COLLISION
+    4300000: __Bench
+    4300002: __Road
+    4300004: __Grass
+    4300006: __Cutout
+    4300008: __Wood
+    4300010: __Concrete
+    4300012: __Accoya
+    4300014: __Brick
+    4300016: __White_Metal_MeshPart0
+    4300018: __White_Metal_MeshPart1
+    4300020: __Spar_Column_King_Post
+    4300022: __Glass
+    4300024: __COLLISION
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
