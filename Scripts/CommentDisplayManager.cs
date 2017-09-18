@@ -1,4 +1,10 @@
-﻿using System.Collections.Generic;
+//为什么选择这段代码作为例子
+//maneger脚本，体现了我对Unity中C#脚本的应用，
+//主要是这段挺长的
+
+
+
+using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 
